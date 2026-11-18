@@ -1,0 +1,19 @@
+{
+  "games": {
+    "princess-town": {
+      "releases": [
+        {
+          "version": "1.0.0",
+          "versionCode": 10000,
+          "file": "princess-town-1.0.0.apk",
+          "size": 1934745,
+          "sha256": "2fd35d0b84b7bc1f5d39b0751ffaab3198bed1eae1d8dc20388795cd580c26c6",
+          "date": "2026-11-18"
+        }
+      ],
+      "title": "Lands of Zarayah",
+      "description": "Explore the magical town of Zarayah, with a castle, theme park, beach, school and mosque. Ride your unicorn or dragon, make friends, collect gems and complete quests.",
+      "appId": "com.unpluggedplay.princesstown"
+    }
+  }
+}
