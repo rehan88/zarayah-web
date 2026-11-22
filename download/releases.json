@@ -3,6 +3,14 @@
     "princess-town": {
       "releases": [
         {
+          "version": "1.0.26",
+          "versionCode": 10026,
+          "file": "princess-town-1.0.26.apk",
+          "size": 2081949,
+          "sha256": "d26ee44a6abfb28ccce67fef92cae2464d3ba1d7bd093d722c2efe8e528f6aac",
+          "date": "2026-11-22"
+        },
+        {
           "version": "1.0.25",
           "versionCode": 10025,
           "file": "princess-town-1.0.25.apk",
@@ -203,8 +211,8 @@
           "date": "2026-11-18"
         }
       ],
-      "title": "Lands of Zarayah",
-      "description": "Explore the magical town of Zarayah, with a castle, theme park, beach, school and mosque. Ride your unicorn or dragon, make friends, collect gems and complete quests.",
+      "title": "Little Adventurers",
+      "description": "A little planet of lands to explore. Start in the magical town of Zarayah, with a castle, theme park, beach, school and mosque. Ride your unicorn or dragon, make friends, collect gems and complete quests.",
       "appId": "com.unpluggedplay.princesstown"
     }
   }
