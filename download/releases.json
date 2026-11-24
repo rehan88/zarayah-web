@@ -3,6 +3,14 @@
     "princess-town": {
       "releases": [
         {
+          "version": "1.0.36",
+          "versionCode": 10036,
+          "file": "princess-town-1.0.36.apk",
+          "size": 2282909,
+          "sha256": "4b4bc8c0bc85bb00ea923fee9af1606ac90ecd3d7c6e5b70e618c90bdccad9e1",
+          "date": "2026-11-24"
+        },
+        {
           "version": "1.0.35",
           "versionCode": 10035,
           "file": "princess-town-1.0.35.apk",
